@@ -12,29 +12,30 @@ redirect_from:
 Education
 ======
 * BEng in Computer and Communications Engineering, TU Dublin, 2021
-* MSc in Eleectronic Information Engineering, Trinity College Dublin, 2022
+* MSc in Electronic Information Engineering, Trinity College Dublin, 2022
 * MRes in Robotics and Autonomous Systems, University of Bristol, 2023
 * Ph.D in Human Robot Interaction, Imperial College London, (current)
 
 Work experience
 ======
+* Summer 2021: Azure Cloud Engineer Intern
+  * Microsoft
+  * Duties included: Interned in the Azure Cloud Engineering department with a focus on data technologies
+    
 * Summer 2020: Software Intern
   * SAP Ireland
-  * Duties included: Code development 
+  * Duties included: Developed features for software applications. 
 
 * Summer 2019: Software Intern
   * PGIM Ireland
-  * Duties included: Testing and development
+  * Duties included: Developed an on-boarding web portal for interns.
 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software development
+* AI and ML
+* Robotics
 
 Publications
 ======
