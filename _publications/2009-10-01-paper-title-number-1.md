@@ -6,7 +6,6 @@ excerpt: 'We measure the performance of separately characterized machine learnin
 date: 2022-09-18
 venue: 'European Conference and Exhibition on Optical Communication'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9979538'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
