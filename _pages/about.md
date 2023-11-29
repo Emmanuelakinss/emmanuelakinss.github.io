@@ -12,7 +12,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 About
 ======
-I am currently a PhD student at I-X, Imperial College London where I am exploring the use of robotics and AI to empower persons with limited functional independence such as persons with dementia to live independently in their homes. 
+I am currently a PhD student at I-X, Imperial College London where I am exploring the use of robotics and AI to empower persons with limited functional independence such as persons with dementia to live independently in their homes. I was previously a researcher at the [Bristol Robotic Lab](https://www.bristolroboticslab.com/). I am a co-organiser of the Imperial Computing Conference (https://icc.doc.ic.ac.uk/home). 
 
 
 Getting started
