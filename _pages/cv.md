@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BEng in Computer and Communications Engineering, TU Dublin, 2021
+* MSc in Eleectronic Information Engineering, Trinity College Dublin, 2022
+* MRes in Robotics and Autonomous Systems, University of Bristol, 2023
+* Ph.D in Human Robot Interaction, Imperial College London, (current)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Software Intern
+  * SAP Ireland
+  * Duties included: Code development 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Software Intern
+  * PGIM Ireland
+  * Duties included: Testing and development
+
   
 Skills
 ======
