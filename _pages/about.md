@@ -18,4 +18,4 @@ I was previously a researcher at the [Bristol Robotics Lab](https://www.bristolr
 
 News
 ======
-[11/2023] Awarded the IEEE RAS Travel Grant for Humanoids Conference 2023 in Texas, U.S.
+[11/2023] IEEE-RAS Travel Grant for the International Conference on Humanoid Robots (Humanoids) in Texas, U.S.
