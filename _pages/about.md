@@ -14,6 +14,8 @@ College London where I am exploring the use of robotics and AI to empower person
 I was previously a researcher at the [Bristol Robotics Lab](https://www.bristolroboticslab.com/). I am also a co-organiser of the [Imperial Computing Conference](https://icc.doc.ic.ac.uk). Besides my research, I am an advocate for sustainability and equality. I am a member of the Equality Diversity and Culture Committee (EDCC) at Imperial College London. 
 
 
-Interests
+
+
+News
 ======
-Sports--football and tennis
+[11/2023] Awarded the IEEE RAS Travel Grant for Humanoids Conference 2023 in Texas, U.S.
