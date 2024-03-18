@@ -24,4 +24,5 @@ I was previously a researcher at the [Bristol Robotics Lab](https://www.bristolr
 News
 ======
 [11/2023] IEEE-RAS Travel Grant for the International Conference on Humanoid Robots (Humanoids) in Texas, U.S.
+
 [02/2024] Workshop paper accepted in the Ageing in Place workshop at the Human-Robot Interaction Conference 2024.
