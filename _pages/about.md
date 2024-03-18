@@ -15,7 +15,7 @@ I am passionate about diversity and technology ethics. At Imperial, I am a membe
 
 I have vast experience in technological design and software development with industry experience at organisations such as Microsoft, SAP and PGIM Ireland. At these organisations, I explored aspects of cloud and data technology, enterprise software, and consumer software used by millions of users. 
 
-I was previously a researcher at the [Bristol Robotics Lab](https://www.bristolroboticslab.com/).  Besides my research, I am an advocate for sustainability. I share my ideas through avenues such as the [St. Gallen Symposium](https://symposium.org/top-25-essays-52nd-gec/) where my essay was ranked in the top 25/700+ essays globally.  
+I was previously a researcher at the [Bristol Robotics Lab](https://www.bristolroboticslab.com/) where I completed a master's in research in Robotics and Autonomous Systems. Besides my research, I am an advocate for sustainability. I share my ideas through avenues such as the [St. Gallen Symposium](https://symposium.org/top-25-essays-52nd-gec/) where my essay was ranked in the top 25/700+ essays globally.  
 
 
 
