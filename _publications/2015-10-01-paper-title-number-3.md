@@ -11,4 +11,4 @@ paperurl: 'https://www.sciencedirect.com/science/article/pii/S1068520023000226'
 
 [Download paper here]([http://academicpages.github.io/files/paper2.pdf](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xTBOtfcAAAAJ&citation_for_view=xTBOtfcAAAAJ:d1gkVwhDpl0C))
 
-Authors: Emmanuel Akinrintoyo, Zehao Wang, Bob Lantz, Tingjun Chen, Dan Kilper
+Authors: Emmanuel Akinrintoyo, Nicole Salomons
