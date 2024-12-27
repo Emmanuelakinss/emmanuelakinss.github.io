@@ -23,6 +23,8 @@ I was previously a researcher at the [Bristol Robotics Lab](https://www.bristolr
 
 News
 ======
+[12/2024] Paper accepted in HRI conference.
+
 [10/2024] Featured in I-X blogpost.
 
 [02/2024] Workshop paper accepted in the Ageing in Place workshop at the Human-Robot Interaction Conference 2024 in Colorado, U.S.
