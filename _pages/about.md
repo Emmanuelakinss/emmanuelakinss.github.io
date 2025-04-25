@@ -29,10 +29,10 @@ News
 
 [12/2024] Paper received Honourable Mention at the HRI Pioneers.
 
-[12/2024] Paper accepted in HRI conference.
+[12/2024] Paper titled "Social Group Human-Robot Interaction: A Scoping Review of Computational Challenges" accepted at HRI conference.
 
 [10/2024] Featured in I-X blogpost.
 
-[02/2024] Workshop paper accepted in the Ageing in Place workshop at the Human-Robot Interaction Conference 2024 in Colorado, U.S.
+[02/2024] Workshop paper accepted in the Ageing in Place workshop at the Human-Robot Interaction (HRI) Conference 2024 in Colorado, U.S.
 
 [11/2023] IEEE-RAS Travel Grant for the International Conference on Humanoid Robots (Humanoids) in Texas, U.S.
