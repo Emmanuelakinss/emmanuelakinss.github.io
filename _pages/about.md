@@ -23,6 +23,12 @@ I was previously a researcher at the [Bristol Robotics Lab](https://www.bristolr
 
 News
 ======
+[04/2025] Paper titled "User-Centered Design of Internet of Robotic Things (IoRT) for People Living with Dementia" accepted in International Journal of Social Robotics.
+
+[02/2025] Finalist for AI Champion of the Year 2025 at Black Tech Achievements Awards.
+
+[12/2024] Paper received Honourable Mention at the HRI Pioneers.
+
 [12/2024] Paper accepted in HRI conference.
 
 [10/2024] Featured in I-X blogpost.
