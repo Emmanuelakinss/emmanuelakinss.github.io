@@ -27,7 +27,7 @@ News
 
 [02/2025] Finalist for AI Champion of the Year 2025 at Black Tech Achievements Awards.
 
-[12/2024] Paper received Honourable Mention at the HRI Pioneers.
+[12/2024] Paper titled "Co-Designing In-home Social Robots for Long-Term iCST" given Honourable Mention at the HRI Pioneers 2025.
 
 [12/2024] Paper titled "Social Group Human-Robot Interaction: A Scoping Review of Computational Challenges" accepted at HRI conference.
 
