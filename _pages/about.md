@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a robotics engineer on a mission to use technology to improve the lives and well-being of humans. I am currently a PhD student at [I-X](https://ix.imperial.ac.uk/i-x-phd-research-spotlight-emmanuel-akinrintoyo/) and the Department of Computing Imperial 
-College London where I am exploring the use of robotics and AI to empower persons with limited functional independence such as persons with dementia to live independently in their homes. 
+I am a robotics engineer on a mission to use technology to improve the lives and well-being of humans. I am currently a PhD student at [I-X](https://ix.imperial.ac.uk/i-x-phd-research-spotlight-emmanuel-akinrintoyo/) and the Department of Computing, Imperial College London, where I am exploring the use of robotics and AI to empower persons with limited functional independence, such as persons with dementia, to live independently in their homes. 
 
-I am passionate about diversity and technology ethics. At Imperial, I am a member of the Equality Diversity and Culture Committee (EDCC). I am the only student member of the [Science, Engineering and Technology Research Ethics Committee (SETREC)](https://www.imperial.ac.uk/research-ethics-committee/committees/setrec/) that oversees non-health-related research at the institution. To improve the student experience, I co-organise the [Imperial Computing Conference](https://icc.doc.ic.ac.uk) held twice yearly with keynote speakers from industry and academia. I am also the PhD Representative of my cohort
+Outside of my research activities, I engage as a speaker and provide consultancy for tech startups. I am passionate about diversity and technology ethics. At Imperial, I am a member of the Equality, Diversity and Culture Committee (EDCC). I am the only student member of the [Science, Engineering and Technology Research Ethics Committee (SETREC)](https://www.imperial.ac.uk/research-ethics-committee/committees/setrec/) that oversees non-health-related research at the institution. To improve the student experience, I co-organise the [Imperial Computing Conference](https://icc.doc.ic.ac.uk) held twice yearly with keynote speakers from industry and academia. I am also the PhD Representative of my cohort
 
 I have vast experience in technological design and software development with industry experience at organisations such as Microsoft, SAP and PGIM Ireland. At these organisations, I explored aspects of cloud and data technology, enterprise software, and consumer software used by millions of users. 
 
@@ -23,6 +22,8 @@ I was previously a researcher at the [Bristol Robotics Lab](https://www.bristolr
 
 News
 ======
+[05/2025] Paper titled "WhisperD: Dementia Speech Recognition and Filler Word Detection with Whisper" accepted at Interspeech conference.
+
 [04/2025] Paper titled "User-Centered Design of Internet of Robotic Things (IoRT) for People Living with Dementia" accepted in International Journal of Social Robotics.
 
 [02/2025] Finalist for AI Champion of the Year 2025 at Black Tech Achievements Awards.
