@@ -22,6 +22,8 @@ I was previously a researcher at the [Bristol Robotics Lab](https://www.bristolr
 
 News
 ======
+[05/2025] Paper titled “In-Home Social Robots Design for Cognitive Stimulation Therapy in Dementia Care” accepted at IEEE RO-MAN conference.
+
 [05/2025] Paper titled "WhisperD: Dementia Speech Recognition and Filler Word Detection with Whisper" accepted at Interspeech conference.
 
 [04/2025] Paper titled "User-Centered Design of Internet of Robotic Things (IoRT) for People Living with Dementia" accepted in International Journal of Social Robotics.
