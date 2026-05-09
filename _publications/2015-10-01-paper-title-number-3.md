@@ -9,6 +9,6 @@ paperurl: 'https://easychair.org/publications/preprint/dNfw'
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://easychair.org/publications/preprint/dNfw/open)
 
 Authors: Emmanuel Akinrintoyo, Nicole Salomons
