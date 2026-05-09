@@ -9,6 +9,6 @@ paperurl: 'https://www.sciencedirect.com/science/article/pii/S1068520023000226'
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S1068520023000226)
 
 Authors: Emmanuel Akinrintoyo, Zehao Wang, Bob Lantz, Tingjun Chen, Dan Kilper
